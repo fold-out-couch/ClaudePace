@@ -12,3 +12,4 @@ claude_usage_applescript.sh
 claude_usage_screen.sh
 claude_usage_screen_v2.sh
 claude_usage_tmux.sh
+build/
